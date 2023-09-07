@@ -3,6 +3,27 @@
     {
       "id": 1,
       "nombre": "ito"
+    },
+    {
+      "nombre": "carlos",
+      "id": 2
+    },
+    {
+      "nombre": "maria",
+      "id": 3
+    }
+  ],
+  "tareas": [
+    {
+      "text": "g",
+      "nombre": "ito",
+      "id": 18,
+      "checked": false
+    },
+    {
+      "text": "c",
+      "nombre": "ito",
+      "id": 19
     }
   ]
 }
